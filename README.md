@@ -24,5 +24,5 @@ Pull reguestler kabul edilir. Büyük ddeğişiklikler için, lütfen önce neyi
 
 [MİT](https://choosealicense.com/licenses/mit/)
 
-![KodluyoruzilkRepo]([https://picsum.photos/200](https://raw.githubusercontent.com/Kodluyoruz/taskforce/git/git/markdown-nedir-nasil-kullaniriz-/figures/kodluyoruz_logo.jpg))
+![KodluyoruzilkRepo](https://raw.githubusercontent.com/Kodluyoruz/taskforce/git/git/markdown-nedir-nasil-kullaniriz-/figures/kodluyoruz_logo.jpg)
 
